@@ -6,9 +6,9 @@
 
 ## 下载
 
-- [下载视频（MP4）](https://github.com/JinGaoX/chatgpt-cloud/releases/download/history-qin-to-2026-v1/qin-to-2026-1080p.mp4)
-- [下载中文字幕（SRT）](https://github.com/JinGaoX/chatgpt-cloud/releases/download/history-qin-to-2026-v1/qin-to-2026.zh-CN.srt)
-- [查看发布页及附件](https://github.com/JinGaoX/chatgpt-cloud/releases/tag/history-qin-to-2026-v1)
+- [下载视频（MP4）](https://raw.githubusercontent.com/JinGaoX/chatgpt-cloud/main/videos/qin-to-2026-1080p.mp4)
+- [下载中文字幕（SRT）](https://raw.githubusercontent.com/JinGaoX/chatgpt-cloud/main/videos/qin-to-2026.zh-CN.srt)
+- [查看仓库与附件](https://github.com/JinGaoX/chatgpt-cloud)
 
 视频和字幕也保存在本仓库的 `videos/` 目录中。下载视频后可使用电脑或手机播放器打开；字幕已内嵌，单独SRT文件供编辑使用。
 
